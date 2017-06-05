@@ -3,6 +3,7 @@
 ## Data
 
 Download all the input files from this [link](https://drive.google.com/open?id=0B7w5W73zZGgONE5pbGRsU3FhZnM)
+
 Make sure the file is in the same directory as the source codes.
 
 ## Predict headlines using convolutional neural network
